@@ -267,4 +267,4 @@ These tools make Conventional Commits PR titles easier to write:
  
 ## Questions
  
-Ask in the team channel, or open a draft PR and tag a reviewer for early feedback. Better to ask than to guess.
+Ask in the team channel, or open a draft PR and tag a reviewer for early feedback. Better to ask than to guess. 😎
